@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; b
 
 public class CaseCheck {
     public static void main(String[] args) {
