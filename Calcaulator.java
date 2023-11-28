@@ -1,5 +1,5 @@
 import java.util.*;
-public class Calcaulator { f
+public class Calcaulator { 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
        
