@@ -1,5 +1,5 @@
 ffimport java.util.*;
-public class stringBuilder {
+public class stringBuilder {f
     public static void main(String args[]) {
         StringBuilder sc = new StringBuilder("hello");
         // System.out.println(sc);
