@@ -1,4 +1,4 @@
-jjjgdhimport java.util.*;
+hjjjgdhimport java.util.*;
 public class HappyNumber {
   public static void main(String[] args) {
     int n=19;
