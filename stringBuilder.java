@@ -1,4 +1,4 @@
-dhgsgimport java.util.*;
+kdhgsgimport java.util.*;
 public class stringBuilder {f
     public static void main(String args[]) {
         StringBuilder sc = new StringBuilder("hello");
