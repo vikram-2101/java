@@ -1,4 +1,4 @@
-gimport java.util.*;
+sgimport java.util.*;
 public class stringBuilder {f
     public static void main(String args[]) {
         StringBuilder sc = new StringBuilder("hello");
