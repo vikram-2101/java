@@ -1,4 +1,4 @@
-dsfimport java.util.*;
+import java.util.*;
 public class HappyNumber {
   public static void main(String[] args) {
     int n=19;
